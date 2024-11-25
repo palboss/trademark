@@ -1,4 +1,3 @@
 # trademark
 
-
-![[./logo/AITO logo 0.png]]
+![AITO1024](./logo/AITO logo 0.png)
